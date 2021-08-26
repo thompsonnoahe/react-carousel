@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.arrow {
+  padding: 15px;
+  cursor: pointer;
+  color: #cecece;
+}
+
+.image-container {
+  user-select: none;
+  overflow: hidden;
+  box-shadow: 0px 0px 50px 5px rgba(169, 178, 162, 0.34);
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
