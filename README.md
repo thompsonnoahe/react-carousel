@@ -1,6 +1,6 @@
 # React-Carousel
 
-A simple, configurable carousel made with React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+A simple, configurable carousel made with React. View it live [here](https://thomp-react-carousel.netlify.app/). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
